@@ -1,4 +1,4 @@
-C# อ่านไฟล์ และ บันทึกลง SQL Server 
+C# อ่านไฟล์ และ บันทึกลง SQL Server</b> 
 
 ขั้นตอน 
 1.ลง Install Dotnet SDK 5.0

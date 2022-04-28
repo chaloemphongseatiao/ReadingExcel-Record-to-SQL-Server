@@ -1,1 +1,8 @@
-Install Dotnet SDK 5.0
+C# อ่านไฟล์ และ บันทึกลง SQL Server 
+
+ขั้นตอน 
+1.ลง Install Dotnet SDK 5.0
+2.เชื่อมต่อ ฐานข้อมูล
+3.สร้าง Table เพื่อสำหรับบันทึกข้อมูล
+            
+
